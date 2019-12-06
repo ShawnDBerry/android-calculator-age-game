@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this,"Enjoying Adulthood Yet!", Toast.LENGTH_LONG).show();
                     }
                     else if(clickcount == 11){
-                        Toast.makeText(MainActivity.this,"Thats all folks!", Toast.LENGTH_LONG).show();
+                        Toast.makeText(MainActivity.this,"That\'s all folks!", Toast.LENGTH_LONG).show();
                     }
                     if(clickcount == ageMessage.size()){
                         clickcount = 0;
